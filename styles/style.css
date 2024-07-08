@@ -42,3 +42,44 @@ color: rgb(255, 255, 255);
     font-size: 72px;
     font-weight: 900;
 }
+/* secand section style starte here */
+.secand-section-container{
+width: 802.9px;
+height: 806px;
+
+margin: 0 auto;
+margin-top: 90px;
+
+
+}
+.second-section-content{
+ display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+
+.second-section-content h2 {
+ color: rgb(255, 0, 0);
+font-family: Inter;
+font-size: 88px;
+}
+.second-section-content p {
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 24px;
+}
+.second-section-content h4 {
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 48px
+}
+.image-container{
+ width: 802.9px;
+height: 500px;
+}
+.image-container img {
+ width: 100%;
+height: 100%;
+}
